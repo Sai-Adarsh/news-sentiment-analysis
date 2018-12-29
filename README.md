@@ -1,6 +1,10 @@
-# news-sentiment
+# News Sentiment Analysis
+> Capturing News Sentiment Predtive Model as a part of [IBM](https://www.techgig.com/hackathon/IBM) Hackathon.
 
-> capturing news sentiment
+## Team Members
+* Sai Adarsh S
+* Rajasekar
+* Sibi Bose P.S
 
 ## Build Setup
 
@@ -17,8 +21,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 This is small web application which given a topic or subject in the news does sentiment analysis using natural language processing to create datasets and display the sentiment on a given topic.
 
