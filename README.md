@@ -2,9 +2,9 @@
 > Capturing News Sentiment Predtive Model as a part of [IBM](https://www.techgig.com/hackathon/IBM) Hackathon.
 
 ## Team Members
-* Sai Adarsh S
-* Rajasekar
-* Sibi Bose P.S
+* [Sai Adarsh](https://github.com/sai-adarsh).
+* [Rajasekar](https://github.com/rajasekar1999).
+* [Sibi Bose](https://www.linkedin.com/in/sibi-bose-8683b6150/).
 
 ## Build Setup
 
@@ -21,6 +21,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+## Demo 
+![Demo](https://raw.githubusercontent.com/Sai-Adarsh/IBMHackathon/master/ezgif.com-video-to-gif.gif)
 
 This is small web application which given a topic or subject in the news does sentiment analysis using natural language processing to create datasets and display the sentiment on a given topic.
 
